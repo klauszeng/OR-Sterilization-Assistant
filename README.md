@@ -2,11 +2,6 @@ Welcome to our team home page.
 
 
 Gabriel Galarza, Luka Antolic-Soban, Klaus JianMing Zeng
-UHE 
-CS 4590
-Github: https://github.com/klauszeng/Team-Project-UAE
-Google Drive: https://drive.google.com/drive/folders/0BwgkFKgDC6MNZm8taE1vYV81Wnc
-
 
 Project Description
 In surgery rooms, many sterile procedures must be followed in order to maintain a sterile environment for those operating in the room as well as for the patient. These procedures include keeping the hands above the waist, maintaining an appropriate distance at times from others in the room as well as unsterile environments, and passing another person in room with a person's back facing another person’s front. If medical personnel at any point leaves the sterile environment or breaks one of the three procedures above, they must leave the room immediately and re-sterilize. 
