@@ -83,7 +83,7 @@ void setup()               // executed once at the begining
   g.addInput(alert3);
   ac.out.addInput(heartBeat);
   ac.out.addInput(g);
-  //ac.start();
+  ac.start();
   
   } // end of setup
   //done
@@ -93,16 +93,20 @@ void draw()      // executed at each frame
   {
   background(white);
   if(recordingPDF) startRecordingPDF(); // starts recording graphics to make a PDF
-  //if (heartBeat.getPosition() >= len) {
-  //   heartBeat.reTrigger();
-  //} 
+  if (heartBeat.getPosition() >= len) {
+     heartBeat.reTrigger();
+  } 
+  
+  // OR simulation
   //showObjects();
   //showHuman();
   //checkCloseTo(surgeon);
   
+  //// Body simulation
   //drawBody();
   //checkHands();
   
+  //Sounds Mechanic Simulation 
   drawHead();
   
   

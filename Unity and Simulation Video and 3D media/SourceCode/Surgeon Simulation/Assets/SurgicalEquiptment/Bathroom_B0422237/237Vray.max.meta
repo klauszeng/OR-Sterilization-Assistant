@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: e0fb806e85d8f134ea7fc480d6119080
+timeCreated: 1481048017
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box01
+    100004: Box02
+    100006: Box03
+    100008: Box04
+    100010: Box05
+    100012: Box06
+    100014: Box07
+    100016: Box08
+    100018: Box09
+    100020: Box10
+    100022: Box11
+    100024: Box12
+    100026: Box13
+    100028: Box14
+    100030: Box15
+    100032: Box16
+    100034: ChamferBox01
+    100036: ChamferBox02
+    100038: ChamferBox03
+    100040: ChamferBox03 1
+    100042: ChamferBox04
+    100044: ChamferCyl01
+    100046: ChamferCyl02
+    100048: Cone02
+    100050: Cylinder01
+    100052: Cylinder01 1
+    100054: Cylinder02
+    100056: Cylinder02 1
+    100058: Group01
+    100060: L-Ext01
+    100062: Line01
+    100064: Line03
+    100066: Line04
+    100068: Line06
+    100070: Line07
+    100072: Line09
+    100074: Line11
+    100076: Line12
+    100078: Line13
+    100080: Line14
+    100082: Line15
+    100084: Line16
+    100086: Line17
+    100088: Line18
+    100090: Line19
+    100092: OilTank01
+    100094: Rectangle01
+    100096: Rectangle01 1
+    100098: Sphere01
+    100100: Sun01
+    100102: Sun01.Target
+    100104: VRayLight01
+    100106: "\u043A\u0440\u0430\u043D forme 1"
+    100108: "\u043B\u0430\u043C\u043F\u0430 stelo"
+    400000: //RootNode
+    400002: Box01
+    400004: Box02
+    400006: Box03
+    400008: Box04
+    400010: Box05
+    400012: Box06
+    400014: Box07
+    400016: Box08
+    400018: Box09
+    400020: Box10
+    400022: Box11
+    400024: Box12
+    400026: Box13
+    400028: Box14
+    400030: Box15
+    400032: Box16
+    400034: ChamferBox01
+    400036: ChamferBox02
+    400038: ChamferBox03
+    400040: ChamferBox03 1
+    400042: ChamferBox04
+    400044: ChamferCyl01
+    400046: ChamferCyl02
+    400048: Cone02
+    400050: Cylinder01
+    400052: Cylinder01 1
+    400054: Cylinder02
+    400056: Cylinder02 1
+    400058: Group01
+    400060: L-Ext01
+    400062: Line01
+    400064: Line03
+    400066: Line04
+    400068: Line06
+    400070: Line07
+    400072: Line09
+    400074: Line11
+    400076: Line12
+    400078: Line13
+    400080: Line14
+    400082: Line15
+    400084: Line16
+    400086: Line17
+    400088: Line18
+    400090: Line19
+    400092: OilTank01
+    400094: Rectangle01
+    400096: Rectangle01 1
+    400098: Sphere01
+    400100: Sun01
+    400102: Sun01.Target
+    400104: VRayLight01
+    400106: "\u043A\u0440\u0430\u043D forme 1"
+    400108: "\u043B\u0430\u043C\u043F\u0430 stelo"
+    2300000: Box01
+    2300002: Box02
+    2300004: Box03
+    2300006: Box04
+    2300008: Box05
+    2300010: Box06
+    2300012: Box07
+    2300014: Box08
+    2300016: Box09
+    2300018: Box10
+    2300020: Box11
+    2300022: Box12
+    2300024: Box13
+    2300026: Box14
+    2300028: Box15
+    2300030: Box16
+    2300032: ChamferBox01
+    2300034: ChamferBox02
+    2300036: ChamferBox03
+    2300038: ChamferBox03 1
+    2300040: ChamferBox04
+    2300042: ChamferCyl01
+    2300044: ChamferCyl02
+    2300046: Cone02
+    2300048: Cylinder01
+    2300050: Cylinder01 1
+    2300052: Cylinder02
+    2300054: Cylinder02 1
+    2300056: L-Ext01
+    2300058: Line01
+    2300060: Line03
+    2300062: Line06
+    2300064: Line07
+    2300066: Line09
+    2300068: Line11
+    2300070: Line12
+    2300072: Line13
+    2300074: Line14
+    2300076: Line15
+    2300078: Line16
+    2300080: Line17
+    2300082: Line18
+    2300084: Line19
+    2300086: OilTank01
+    2300088: Rectangle01
+    2300090: Rectangle01 1
+    2300092: Sphere01
+    3300000: Box01
+    3300002: Box02
+    3300004: Box03
+    3300006: Box04
+    3300008: Box05
+    3300010: Box06
+    3300012: Box07
+    3300014: Box08
+    3300016: Box09
+    3300018: Box10
+    3300020: Box11
+    3300022: Box12
+    3300024: Box13
+    3300026: Box14
+    3300028: Box15
+    3300030: Box16
+    3300032: ChamferBox01
+    3300034: ChamferBox02
+    3300036: ChamferBox03
+    3300038: ChamferBox03 1
+    3300040: ChamferBox04
+    3300042: ChamferCyl01
+    3300044: ChamferCyl02
+    3300046: Cone02
+    3300048: Cylinder01
+    3300050: Cylinder01 1
+    3300052: Cylinder02
+    3300054: Cylinder02 1
+    3300056: L-Ext01
+    3300058: Line01
+    3300060: Line03
+    3300062: Line06
+    3300064: Line07
+    3300066: Line09
+    3300068: Line11
+    3300070: Line12
+    3300072: Line13
+    3300074: Line14
+    3300076: Line15
+    3300078: Line16
+    3300080: Line17
+    3300082: Line18
+    3300084: Line19
+    3300086: OilTank01
+    3300088: Rectangle01
+    3300090: Rectangle01 1
+    3300092: Sphere01
+    4300000: Box07
+    4300002: Line03
+    4300004: Line06
+    4300006: Line07
+    4300008: Line09
+    4300010: Box05
+    4300012: ChamferBox03
+    4300014: Cone02
+    4300016: OilTank01
+    4300018: Box04
+    4300020: Box06
+    4300022: ChamferBox02
+    4300024: Cylinder01
+    4300026: ChamferBox03
+    4300028: ChamferBox04
+    4300030: Rectangle01
+    4300032: Cylinder02
+    4300034: ChamferBox01
+    4300036: Line11
+    4300038: Line01
+    4300040: Box01
+    4300042: Box02
+    4300044: Box08
+    4300046: Line12
+    4300048: Line13
+    4300050: Box09
+    4300052: Line14
+    4300054: Box10
+    4300056: Box11
+    4300058: Line15
+    4300060: Line16
+    4300062: Box12
+    4300064: Line17
+    4300066: Box13
+    4300068: Box14
+    4300070: Box15
+    4300072: Line18
+    4300074: Line19
+    4300076: Box16
+    4300078: Box03
+    4300080: Sphere01
+    4300082: Cylinder01
+    4300084: ChamferCyl01
+    4300086: ChamferCyl02
+    4300088: Cylinder02
+    4300090: L-Ext01
+    4300092: Rectangle01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

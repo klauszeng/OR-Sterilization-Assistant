@@ -61,7 +61,7 @@ void checkHands() {
   
   pen(black, 3); scribe("Safty Zone", 0, 300);
   pen(red, 3);line(0, 500, 1200, 500);
-  pen(black, 2); scribe("High Risk Zone(Recoverable)", 0, 520);
+  pen(black, 2); scribe("High Risk Zone(Unrecoverable)", 0, 520);
   pen(green, 3);line(0, 400, 1200, 400);
-  pen(black,2); scribe("Low Risk Zone(Unrecorverable)",0,420);
+  pen(black,2); scribe("Low Risk Zone(Recorverable)",0,420);
 }
